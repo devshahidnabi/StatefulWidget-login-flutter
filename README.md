@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Login Page -> Stateful -> validation -> save -> Mixins
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
